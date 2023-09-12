@@ -1,0 +1,81 @@
+.main {
+width: 1000px;
+height: 500px;
+border: 10px solid red;
+border-radius: 10px;
+display: inline-block; 
+margin-left: 20px;
+margin-top: 20px;  
+box-sizing: border-box; 
+}
+
+.card1 {
+    width: 400px;
+    height: 450px;
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+.card2 {
+    width: 400px;
+    height: 450px;
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+.card-image {
+    width: 200px;
+    height: 200px;
+}
+.card-info {
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: large;
+    font-style: italic;
+}
+.card-info-title1 {
+    color: blue
+}
+.card-info-description1 {
+    color: blue
+}
+.card-info-title2 {
+    color: red;
+}
+.card-info-description2 {
+    color: red;
+}
+h1 {
+    margin-left: 350px;
+}
+.select1 {
+    font-size: 30px;
+    font-style: italic;
+    color: blue;
+    margin-left: 100px;
+}
+.select2 {
+    font-size: 30px;
+    font-style: italic;
+    color: red;
+    margin-left: 100px;
+}
+.melumat {
+    font-size: 25px;
+    font-style: oblique;
+    color: blueviolet;
+}
+.link-ingress {
+    color: brown;
+    font-size: 30px;
+}
