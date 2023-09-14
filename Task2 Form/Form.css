@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(196, 198, 199);
+  }
+  p {
+    font-size: 25px;
+    margin-left: 20px;
+    padding-top: 25px;
+  }
+form {
+    width: 310px;
+    height: 600px;
+    background-color: white;
+    margin: 0px auto;
+    border-radius: 10px;
+    padding-left: 40px;
+}
+div {
+    margin: 10px;
+
+}
+.mesaj {
+    height: 100px;
+}
+input {
+    width: 250px;
+}
+select {
+    width: 250px;
+}
+.checkbox {
+    width: 15px;
+}
+.submit {
+    background-color: blue;
+    color: white;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 258px;
+}
+select {
+    width: 258px;
+}
+.olkekodu {
+    width: 30px;
+}
+.telnom {
+    width: 210px;
+}
