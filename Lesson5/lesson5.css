@@ -1,0 +1,22 @@
+form {
+    background-color: rgb(120, 122, 122);
+    width: 400px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 30px;
+    margin: 0px auto;
+    
+}
+
+label {
+color: rgb(240, 226, 226);
+margin-left: 50px;
+margin-top: 10px;
+display: inline-block;
+width: 100px;
+}
+.button {
+    border: none;
+    border-radius: 10px;
+    
+}
