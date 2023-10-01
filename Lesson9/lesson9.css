@@ -1,0 +1,9 @@
+span {
+    display: none;
+    font-weight: bold;
+}
+
+.btn:hover + span{
+    display: block;
+}
+
